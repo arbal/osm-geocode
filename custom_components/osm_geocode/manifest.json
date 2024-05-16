@@ -1,8 +1,8 @@
 {
     "domain": "osm_geocode",
     "name": "OSM Geocode",
-    "documentation": "https://github.com/seler/osm-geocode",
+    "documentation": "https://github.com/arbal/osm-geocode",
     "dependencies": [],
     "codeowners": [],
-    "requirements": ["requests"],
+    "requirements": ["requests"]
 }
